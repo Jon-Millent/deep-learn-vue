@@ -1,4 +1,6 @@
-# learn-vue
+# vuex 深入学习
+* 官方文档 https://vuex.vuejs.org/zh-cn
+* 官方购物车例子 https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart
 
 > A Vue.js project
 
